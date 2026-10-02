@@ -32,7 +32,6 @@ My work and learning interests include **Density Functional Theory (DFT), comput
 
 ---
 
-
 ### Scientific & Computational Methods
 
 * Density Functional Theory (DFT)
