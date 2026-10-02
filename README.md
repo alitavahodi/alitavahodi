@@ -137,19 +137,6 @@ I am currently expanding my skills in:
 
 ---
 
-## 🛠️ Tools & Technologies
-
-```text
-Python        ███████████████████░░
-Fortran       ██████████████████░░░
-DFT           █████████████████░░░░
-Numerical     ██████████████████░░░
-Git / GitHub  ████████████████░░░░
-Machine Learn ████████████░░░░░░░░
-```
-
----
-
 ## 📫 Connect With Me
 
 * **GitHub:** https://github.com/alitavahodi
